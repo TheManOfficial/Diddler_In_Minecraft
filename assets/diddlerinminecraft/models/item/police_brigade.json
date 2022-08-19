@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "diddlerinminecraft:items/music_disc_13_je1_be1"
+  }
+}

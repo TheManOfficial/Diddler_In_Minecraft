@@ -1,0 +1,52 @@
+{
+  "variants": {
+    "age=0": {
+      "model": "diddlerinminecraft:block/diddler_plant"
+    },
+    "age=1": {
+      "model": "diddlerinminecraft:block/diddler_plant"
+    },
+    "age=2": {
+      "model": "diddlerinminecraft:block/diddler_plant"
+    },
+    "age=3": {
+      "model": "diddlerinminecraft:block/diddler_plant"
+    },
+    "age=4": {
+      "model": "diddlerinminecraft:block/diddler_plant"
+    },
+    "age=5": {
+      "model": "diddlerinminecraft:block/diddler_plant"
+    },
+    "age=6": {
+      "model": "diddlerinminecraft:block/diddler_plant"
+    },
+    "age=7": {
+      "model": "diddlerinminecraft:block/diddler_plant"
+    },
+    "age=8": {
+      "model": "diddlerinminecraft:block/diddler_plant"
+    },
+    "age=9": {
+      "model": "diddlerinminecraft:block/diddler_plant"
+    },
+    "age=10": {
+      "model": "diddlerinminecraft:block/diddler_plant"
+    },
+    "age=11": {
+      "model": "diddlerinminecraft:block/diddler_plant"
+    },
+    "age=12": {
+      "model": "diddlerinminecraft:block/diddler_plant"
+    },
+    "age=13": {
+      "model": "diddlerinminecraft:block/diddler_plant"
+    },
+    "age=14": {
+      "model": "diddlerinminecraft:block/diddler_plant"
+    },
+    "age=15": {
+      "model": "diddlerinminecraft:block/diddler_plant"
+    }
+  }
+}

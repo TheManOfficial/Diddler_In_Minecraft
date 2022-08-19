@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "experience": 20,
+  "cookingtime": 1000,
+  "ingredient": {
+    "item": "diddlerinminecraft:unfinished_music_item"
+  },
+  "result": {
+    "item": "diddlerinminecraft:music_item"
+  }
+}

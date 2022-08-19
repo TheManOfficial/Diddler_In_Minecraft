@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:dispenser"
+    },
+    {
+      "item": "minecraft:diamond"
+    },
+    {
+      "item": "diddlerinminecraft:music_item"
+    },
+    {
+      "item": "minecraft:diamond"
+    },
+    {
+      "item": "minecraft:arrow"
+    }
+  ],
+  "result": {
+    "item": "diddlerinminecraft:upgraded_music_item",
+    "count": 1
+  }
+}

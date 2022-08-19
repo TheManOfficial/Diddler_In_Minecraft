@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "diddlerinminecraft:blocks/garf",
+    "up": "diddlerinminecraft:blocks/garf",
+    "north": "diddlerinminecraft:blocks/garf",
+    "east": "diddlerinminecraft:blocks/garf",
+    "south": "diddlerinminecraft:blocks/garf",
+    "west": "diddlerinminecraft:blocks/garf",
+    "particle": "diddlerinminecraft:blocks/garf"
+  }
+}

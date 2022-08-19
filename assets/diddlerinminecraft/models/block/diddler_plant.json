@@ -1,0 +1,7 @@
+{
+  "parent": "block/crop",
+  "textures": {
+    "crop": "diddlerinminecraft:blocks/garf",
+    "particle": "diddlerinminecraft:blocks/garf"
+  }
+}

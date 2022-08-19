@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:jukebox"
+    },
+    {
+      "item": "minecraft:glowstone_dust"
+    },
+    {
+      "item": "diddlerinminecraft:police_brigade"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "minecraft:diamond"
+    }
+  ],
+  "result": {
+    "item": "diddlerinminecraft:unfinished_music_item",
+    "count": 1
+  }
+}

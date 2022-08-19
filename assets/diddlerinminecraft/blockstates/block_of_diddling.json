@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "diddlerinminecraft:block/block_of_diddling"
+    },
+    "facing=east": {
+      "model": "diddlerinminecraft:block/block_of_diddling",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "diddlerinminecraft:block/block_of_diddling",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "diddlerinminecraft:block/block_of_diddling",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "diddlerinminecraft:block/block_of_diddling",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "diddlerinminecraft:block/block_of_diddling",
+      "x": 90
+    }
+  }
+}

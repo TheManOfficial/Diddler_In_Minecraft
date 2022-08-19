@@ -1,0 +1,42 @@
+{
+  "diddlersong": {
+    "category": "music",
+    "subtitle": "subtitles.diddlersong",
+    "sounds": [
+      {
+        "name": "diddlerinminecraft:mywifefuckingdied",
+        "stream": true
+      }
+    ]
+  },
+  "diddlerdie": {
+    "category": "hostile",
+    "subtitle": "subtitles.diddlerdie",
+    "sounds": [
+      {
+        "name": "diddlerinminecraft:narration",
+        "stream": false
+      }
+    ]
+  },
+  "diddlerhurt": {
+    "category": "hostile",
+    "subtitle": "subtitles.diddlerhurt",
+    "sounds": [
+      {
+        "name": "diddlerinminecraft:narration_1_",
+        "stream": false
+      }
+    ]
+  },
+  "diddlebossosng": {
+    "category": "ambient",
+    "subtitle": "subtitles.diddlebossosng",
+    "sounds": [
+      {
+        "name": "diddlerinminecraft:diddlerbossfight",
+        "stream": false
+      }
+    ]
+  }
+}
